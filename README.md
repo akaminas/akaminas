@@ -1,6 +1,5 @@
 # 👋 About Me:
-Computational ecologist working on ecological and evolutionary modelling, with emphasis on community dynamics and biodiversity under environmental change.
-
+PhD Researcher in Computational Ecology at the University of Groningen. My research focuses on ecological and evolutionary dynamics, biodiversity change, community assembly, and trait-based modelling. I develop simulation models and analytical tools primarily in R, Python, and C++.
 PhD researcher at the University of Groningen.
 
 # Research interests
