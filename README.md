@@ -28,7 +28,7 @@ functional and phylogenetic diversity
 
 Individual-based and spatially explicit simulation · stochastic processes · numerical integration ·
 sensitivity analysis · reproducible research workflows
-<br><sub>Working primarily in **R**, **Python**, **C++** and **LaTeX** — instruments for the science rather than an end in themselves.</sub>
+<br><sub>Working primarily in **R**, **Python**, **C++** and **LaTeX** 
 
 
 ### Elsewhere
