@@ -13,8 +13,7 @@
 
 I develop computational models to understand how complex ecological systems behave. My research
 asks how spatial structure and dispersal limitation shape the emergence, persistence and stability
-of ecological communities. I build individual-based and spatially explicit simulations — and the
-analytical tools to interrogate them, to study how local interactions, stochasticity and
+of ecological communities. I build individual-based and spatially explicit simulations to study how local interactions, stochasticity and
 environmental heterogeneity generate large-scale structure, and why such systems sometimes
 reorganise abruptly rather than gradually.
 
