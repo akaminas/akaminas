@@ -4,7 +4,7 @@
        alt="Looping simulation of a spatial metacommunity on a periodic lattice. Colour shows the community-mean trait; brightness shows biomass density. A slowly varying environmental stress driver carries the landscape across a critical transition: near-continuous patterned cover fragments into isolated refugia, then recolonises by dispersal as stress relaxes.">
 </picture>
 
-<sub><i>Conceptual simulation — a spatial metacommunity crossing a stress-driven regime shift. Colour: community-mean trait. Brightness: biomass density. <a href="visualization/README.md">How it was made →</a></i></sub>
+<sub><i>A spatial metacommunity crossing a stress-driven regime shift. Colour: community-mean trait. Brightness: biomass density. <a href="visualization/README.md">How it was made →</a></i></sub>
 
 # Alexandros Kaminas
 
