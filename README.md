@@ -4,7 +4,7 @@ PhD Researcher in Computational Ecology at the University of Groningen. I develo
 
 # Research interests
 
-Community assembly, regime shifts, stochastic models, functional and phylogenetic diversity, biodiversity dynamics.
+ Complex system dynamics, community assembly, regime shifts, stochastic models, functional and phylogenetic diversity.
 
 # 💻 Tech Stack:
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=plastic&logo=r&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=plastic&logo=latex&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) 
