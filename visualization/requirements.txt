@@ -1,0 +1,11 @@
+# Dependencies for visualization/simulate_metacommunity.py
+# Verified against Python 3.14. Any reasonably recent versions should work;
+# the lower bounds below are the ones the committed asset was generated with.
+#
+#   pip install -r requirements.txt
+#   python simulate_metacommunity.py
+
+numpy>=1.24
+scipy>=1.10
+Pillow>=10.0     # animated WebP encoding (save_all)
+matplotlib>=3.7  # viridis colormap + bundled DejaVu Sans for the legend strip
