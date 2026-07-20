@@ -70,7 +70,7 @@ dynamics bistable, `S(t)` carries the landscape across a **fold bifurcation**:
    carrying refugium trait values, so recolonised ground is transiently
    maladapted before selection re-tunes it to the local optimum.
 
-The hysteresis is real and measurable in the run: at the same stress level
+The hysteresis is measurable in the run: at the same stress level
 `S ≈ 0.21`, cover is ~0.89 on the way up and ~0.30 on the way down.
 
 ## Seamless looping
@@ -93,13 +93,11 @@ frame flows into the first exactly like any other frame transition.
 
 - **viridis**, trimmed to `[0.22, 1.0]` — perceptually uniform and monotonic in
   luminance, so it survives deuteranopia, protanopia and greyscale printing.
-- **Dark neutral background** (`#0b0e16`), self-contained, so the panel reads
+- **Dark neutral background** (`#0b0e16`), self-contained, the panel reads
   the same in GitHub light and dark themes.
 - **No quantitative axes.** The only annotated quantity is `S(t)`, which is
   genuinely the model's driver, and it is drawn without numeric tick labels.
-- **Animated WebP**, not GIF. These are continuous, noisy fields: GIF's 256-colour
-  LZW encoding produces 9–16 MB with visible banding, while animated WebP gives
-  full 24-bit colour at 2.2 MB.
+
 
 ## Reproducing
 
@@ -125,8 +123,7 @@ Useful flags: `--frames`, `--fps`, `--scale`, `--quality`, `--burn`,
 
 ## References
 
-The model is a composite of standard formulations rather than a reproduction of
-any single paper:
+The model is a composite of standard formulations:
 
 - Noy-Meir, I. (1975). Stability of grazing systems. *Journal of Ecology* 63:459–481.
 - May, R. M. (1977). Thresholds and breakpoints in ecosystems with a multiplicity
