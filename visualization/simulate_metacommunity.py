@@ -1,7 +1,6 @@
 """
 Spatial trait-structured metacommunity crossing a stress-driven regime shift.
 
-Generates the looping hero animation used in the GitHub profile README.
 
 The model couples two fields on a periodic lattice (a torus):
 
@@ -30,7 +29,7 @@ loss term makes the system bistable, S(t) carries the landscape across a fold
 bifurcation: a patchy collapse to a degraded state, then hysteretic recovery
 by dispersal out of high-K refugia.
 
-SEAMLESS LOOPING
+ LOOPING
 ----------------
 Every stochastic input (the noise field, the disturbance schedule) is
 pre-generated for exactly one loop period and replayed identically on every
